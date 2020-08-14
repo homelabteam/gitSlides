@@ -1,0 +1,29 @@
+---
+title: "Git y GitHub para proyectos colaborativos"
+author: "Juan Pablo Saavedra"
+date: "8/13/2020"
+output: 
+  ioslides_presentation:
+    widescreen: true
+---
+
+
+## Contenido
+
+- Historia
+- Git y GitHub
+- Fluho de trabajo en Git
+- Comandos en Git
+- Trabajando en GitHub
+
+```{r}
+x<-2
+x
+```
+## Historia
+
+## Git y GitHub
+
+## Comandos en Git
+
+## Trabajando en GitHub
